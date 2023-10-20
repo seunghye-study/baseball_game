@@ -13,30 +13,24 @@
     <ClCompile Include="main.cpp">
       <Filter>Client</Filter>
     </ClCompile>
-    <ClCompile Include="RandomMaker.cpp">
+    <ClCompile Include="Player.cpp">
       <Filter>Engine</Filter>
     </ClCompile>
-    <ClCompile Include="InputCheck.cpp">
+    <ClCompile Include="RandomNumberGenerator.cpp">
       <Filter>Engine</Filter>
     </ClCompile>
-    <ClCompile Include="BallStrike.cpp">
-      <Filter>Engine</Filter>
-    </ClCompile>
-    <ClCompile Include="Output.cpp">
+    <ClCompile Include="Judge.cpp">
       <Filter>Engine</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="RandomMaker.h">
+    <ClInclude Include="Player.h">
       <Filter>Engine</Filter>
     </ClInclude>
-    <ClInclude Include="InputCheck.h">
+    <ClInclude Include="RandomNumberGenerator.h">
       <Filter>Engine</Filter>
     </ClInclude>
-    <ClInclude Include="BallStrike.h">
-      <Filter>Engine</Filter>
-    </ClInclude>
-    <ClInclude Include="Output.h">
+    <ClInclude Include="Judge.h">
       <Filter>Engine</Filter>
     </ClInclude>
   </ItemGroup>
